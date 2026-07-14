@@ -219,6 +219,7 @@ API Reference
    core
    io
    tessellation
+   generate
    calculus
    curvature
    geometry
